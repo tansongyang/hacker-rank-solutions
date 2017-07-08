@@ -4,7 +4,7 @@ Annotated solutions for selected [HackerRank](https://www.hackerrank.com/) chall
 
 ## Utilities
 
-If you ever see a function that isn't defined, it's probably one of these utilities that I often reuse.
+These are referenced in some solutions, but they are not defined in the solution file because they are defined here.
 
 ### readLine
 
